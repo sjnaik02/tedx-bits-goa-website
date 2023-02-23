@@ -1,5 +1,7 @@
 <script>
-	import Home from '../components/Home.svelte';
+	import Hero from '../components/Hero.svelte';
+	import About from '../components/About.svelte';
 </script>
 
-<Home />
+<Hero />
+<About />
