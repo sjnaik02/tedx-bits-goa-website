@@ -4,7 +4,7 @@
 	import gradient from '$lib/images/blurry-gradient-haikei.svg';
 </script>
 
-<section class="relative min-h-[100svh] overflow-hidden bg-black p-4 font-sans text-white">
+<section class="relative min-h-[100svh] overflow-hidden bg-black p-4 text-white">
 	<!-- svelte-ignore a11y-missing-attribute -->
 	<img
 		src={gradient}
@@ -25,9 +25,9 @@
 		<h1 class="font-heading text-7xl font-bold  lg:text-8xl">
 			<span class="text-red-600">TEDx</span>BITSGoa
 		</h1>
-		<p class="mb-4 text-2xl uppercase lg:mt-2">Ideas worth spreading</p>
+		<p class="mb-4 font-body text-2xl uppercase lg:mt-2 ">Ideas worth spreading</p>
 		<a
-			class=" inline-block w-fit rounded-lg border border-white py-4 px-16 text-xl uppercase transition duration-150 ease-in-out hover:bg-white hover:text-black focus:bg-white focus:text-black focus:outline-none"
+			class=" inline-block w-fit rounded-lg border border-white py-4 px-16 font-body text-xl uppercase transition duration-200 ease-in-out hover:bg-white hover:text-black focus:bg-white focus:text-black focus:outline-none"
 			href="/register"
 			>Join the Waitlist!
 		</a>

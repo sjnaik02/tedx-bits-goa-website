@@ -1,8 +1,8 @@
-<div class="flex h-screen w-full bg-black font-sans text-white">
+<div class="flex h-screen w-full bg-black text-white">
 	<div class="flex h-full flex-col justify-center lg:w-1/2">
 		<div class="px-12">
-			<h1 class="text-6xl">Get your pass!</h1>
-			<p class="mt-4 text-2xl font-light ">
+			<h1 class="font-heading text-6xl ">Get your pass!</h1>
+			<p class="mt-4 font-body text-2xl font-light ">
 				We are currently out of passes, join the waitlist to get notified when more are available!
 			</p>
 			<input
