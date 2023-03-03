@@ -4,7 +4,8 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				heading: ['Mohave', 'sans-serif']
+				heading: ['Mohave', 'sans-serif'],
+				body: ['Manrope', 'sans-serif']
 			}
 		}
 	},
