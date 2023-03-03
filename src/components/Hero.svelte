@@ -9,7 +9,7 @@
 	<img
 		src={gradient}
 		role="presentation"
-		class="-z-2 absolute  min-h-full w-full -scale-100 opacity-70  blur-3xl filter
+		class="-z-2 absolute  min-h-full w-full -scale-100 opacity-60  blur-3xl filter
   "
 	/>
 	<!-- svelte-ignore a11y-missing-attribute -->
@@ -28,7 +28,7 @@
 		<p class="mb-4 font-body text-2xl uppercase lg:mt-2 ">Ideas worth spreading</p>
 		<a
 			class=" inline-block w-fit rounded-lg border border-white py-4 px-16 font-body text-xl uppercase transition duration-200 ease-in-out hover:bg-white hover:text-black focus:bg-white focus:text-black focus:outline-none"
-			href="/register"
+			href="/waitlist"
 			>Join the Waitlist!
 		</a>
 	</div>
