@@ -1,4 +1,4 @@
-<section class=" h-screen  w-screen bg-black p-4 font-sans text-white">
+<section class=" relative h-screen w-full border border-transparent font-sans text-white ">
 	<div class="max-w-3xl lg:pt-36 lg:pl-12">
 		<p class="mt-12 text-5xl font-bold uppercase tracking-tighter">
 			India's <span class="text-red-600">oldest</span> institutional
