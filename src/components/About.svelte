@@ -1,6 +1,6 @@
 <section class=" relative h-screen w-full border border-transparent text-white ">
 	<div class="max-w-3xl lg:pt-36 lg:pl-12">
-		<p class="mt-12 font-heading text-5xl font-bold  uppercase tracking-tighter">
+		<p class="mt-12 font-heading text-6xl font-bold  uppercase tracking-tighter">
 			India's <span class="text-red-600">oldest</span> institutional
 			<span class="text-red-600">TEDx</span> Conference
 		</p>
