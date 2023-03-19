@@ -1,9 +1,9 @@
-<div class="flex h-screen w-full bg-black font-body text-white ">
-	<div class="flex h-full flex-col justify-center lg:w-1/2">
+<div class="flex h-[100svh] w-full bg-black font-body text-white md:flex-row">
+	<div class="flex h-full w-full flex-col justify-center lg:w-1/2">
 		<div class="px-12">
 			<h1
 				class="relative z-10 font-heading text-6xl font-semibold
-				before:absolute before:left-0 before:top-8 before:-z-10 before:h-6 before:w-1/2 before:bg-red-800 before:opacity-100 before:content-['']"
+				before:absolute before:left-0 before:top-8 before:-z-10 before:h-6 before:w-80 before:bg-red-800 before:opacity-100 before:content-['']"
 			>
 				Get your pass!
 			</h1>
@@ -23,5 +23,7 @@
 			</button>
 		</div>
 	</div>
-	<div class="w-1/2 bg-gradient-to-br from-red-900 via-black to-red-600" />
+	<div
+		class="absolute top-0 h-1/3 w-full bg-gradient-to-br from-red-900 via-black to-red-600 sm:static sm:h-full sm:w-1/2"
+	/>
 </div>
